@@ -497,6 +497,7 @@
     <property name="cond3" value="is button_pressed K_RETURN"/>
    </properties>
   </object>
+  
   <object id="276" name="personhere" type="event" x="16" y="448" width="16" height="16">
    <properties>
     <property name="act1" value="translated_dialog waithere"/>
@@ -514,6 +515,7 @@
     <property name="cond3" value="is player_at"/>
    </properties>
   </object>
+
   <object id="278" name="create grace and tallon" type="event" x="0" y="368" width="16" height="16">
    <properties>
     <property name="act1" value="create_npc grace,0,29,stand"/>
