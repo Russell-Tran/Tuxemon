@@ -1,0 +1,1 @@
+stand_XXX.png is here as a temporary bug fix. These should be removed once the bug is fixed where we can locate the files which are referencing it. (Cotton town map breaks unless it has stand_XXX.png) ~ Russell Tran 15 Nov 2019
