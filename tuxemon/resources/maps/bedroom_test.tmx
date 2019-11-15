@@ -65,13 +65,12 @@
    <properties>
     <property name="act1" value="dialog_chain Hello stranger!"/>
     <property name="act2" value="dialog_chain My name is Lampy, lord of all lamps."/>
-    <property name="act3" value="dialog_chain Go forth and inact my lampy will."/>
+    <property name="act3" value="dialog_chain Go forth and enact my lampy will."/>
     <property name="act4" value="dialog_chain ${{end}}"/>
    </properties>
   </object>
   <object id="17" name="Lord or Filth" type="event" x="48" y="32" width="16" height="16">
    <properties>
-    <property name="act1" value="dialog_chain ${{name}}:\n Why the hell are you talking to a trashcan?!"/>
     <property name="act2" value="dialog_chain Did Lord Lampy tell you about me? "/>
     <property name="act3" value="dialog_chain Find me again and I shall grant you grand powers."/>
     <property name="act4" value="dialog_chain ${{end}}"/>
