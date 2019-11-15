@@ -43,7 +43,7 @@
   <object id="5" type="collision" x="16" y="48" width="16" height="32"/>
   <object id="6" type="collision" x="112" y="64" width="32" height="16"/>
   <object id="7" type="collision" x="112" y="48" width="16" height="16"/>
-  <object id="8" type="collision" x="144" y="112" width="16" height="16"/>
+  <object id="8" type="collision" x="144" y="112" width="16" height="16"/> <!--I think this is the tree ~Russell -->
  </objectgroup>
  <objectgroup color="#ffff00" name="Events">
   <object id="9" name="Go Downstairs" type="event" x="128" y="48" width="16" height="16">
@@ -65,14 +65,23 @@
    <properties>
     <property name="act1" value="dialog_chain Hello stranger!"/>
     <property name="act2" value="dialog_chain My name is Lampy, lord of all lamps."/>
-    <property name="act3" value="dialog_chain Go forth and enact my lampy will."/>
+    <property name="act3" value="dialog_chain Say hello to the trash can."/>
     <property name="act4" value="dialog_chain ${{end}}"/>
    </properties>
   </object>
   <object id="17" name="Lord or Filth" type="event" x="48" y="32" width="16" height="16">
    <properties>
     <property name="act2" value="dialog_chain Did Lord Lampy tell you about me? "/>
-    <property name="act3" value="dialog_chain Find me again and I shall grant you grand powers."/>
+    <property name="act3" value="dialog_chain Go away please! I'd like to rest in peace."/>
+    <property name="act4" value="dialog_chain ${{end}}"/>
+    <property name="cond1" value="is player_facing_tile"/>
+    <property name="cond2" value="is button_pressed K_RETURN"/>
+   </properties>
+  </object>
+    <object id="18" name="tree" type="event" x="144" y="112" width="16" height="16">
+   <properties>
+    <property name="act2" value="dialog_chain It is me! I am tree!"/>
+    <property name="act3" value="dialog_chain You are a butt. I breathe your farts."/>
     <property name="act4" value="dialog_chain ${{end}}"/>
     <property name="cond1" value="is player_facing_tile"/>
     <property name="cond2" value="is button_pressed K_RETURN"/>
