@@ -1,4 +1,39 @@
 {
+    "// Legend of Bofie Dialogue Here" : "",
+
+    "// # Manhattan Beach": "",
+    "manhattan_beach_uncle_iroh_opening" : [
+        "Uncle Iroh: \n Having fun in the sand, my (niece/nephew)?",
+        "Oh! We have lost track of time. You are almost late for your first day of Fire Nation elementary school.",
+        "As a gift I will give you your first Tuxemon. You will most certainly need it at school.",
+        "Which one would you like?"
+    ],
+
+    "manhattan_beach_uncle_iroh_hydrone": [
+        "Uncle Iroh: An interesting choice you have made! Hydrone is a water Tuxemon.",
+        "Though you two might not get along at first, a water Tuxemon will be the perfect balance to your",
+        "flameo-hotman tendencies.",
+        "Now run to class! Hurry!"
+    ],
+    "manhattan_beach_uncle_iroh_rockitten": [
+        "Uncle Iroh: A wise choice! Rockitten is an earth Tuxemon.",
+        "Together, fire and earth complement each other well.",
+        "Fire and earth are indestructible together in shaping our world!",
+        "Good. Now hurry and run to class! You are late, remember!"
+    ],
+    "manhattan_beach_uncle_iroh_fruitera": [
+        "Uncle Iroh: Hmm. Very interesting. Fruitera is an air Tuxemon.",
+        "Air is what breathes life into fire!",
+        "You and Fruitera will be very compatible together.",
+        "Now get to school! We don't want you in trouble on your first day."
+    ],
+
+
+
+
+    "// Normal game dialogue below here" : "",
+
+
     "combat_run": "${{user}} ran away!",
     "combat_miss": "It missed...",
     "combat_can't_run_from_trainer": "Can't run from trainer battles!",
