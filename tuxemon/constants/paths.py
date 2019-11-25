@@ -55,4 +55,3 @@ LOCALE_PATH = os.path.join(BASEDIR, "resources", "db", "locale")
 
 # resource and database dirs
 DB_DIR = os.path.join(BASEDIR, "resources", "db")
-

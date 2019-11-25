@@ -43,7 +43,7 @@
   <object id="5" type="collision" x="16" y="48" width="16" height="32"/>
   <object id="6" type="collision" x="112" y="64" width="32" height="16"/>
   <object id="7" type="collision" x="112" y="48" width="16" height="16"/>
-  <object id="8" type="collision" x="144" y="112" width="16" height="16"/> <!--I think this is the tree ~Russell -->
+  <object id="8" type="collision" x="144" y="112" width="16" height="16"/> 
  </objectgroup>
  <objectgroup color="#ffff00" name="Events">
   <object id="9" name="Go Downstairs" type="event" x="128" y="48" width="16" height="16">
