@@ -674,6 +674,12 @@ is licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/
   * mysticIsle
   * battle
   * battleFinal
+* Songs used within the "Legend of Bofie" campaign:
+  * The following songs are licensed by [Shane Ivers](https://www.silvermansound.com) under CC BY 4.0:
+  * [All the Tea in China](https://www.silvermansound.com/free-music/all-the-tea-in-china)
+  * [Imperial China Cinematic](https://www.silvermansound.com/free-music/imperial-china-cinematic)
+  * [Zen Garden](https://www.silvermansound.com/free-music/zen-garden)
+  * [Quiescent In Time](https://www.silvermansound.com/free-music/quiescent-in-time)
 
 Sounds
 --------
