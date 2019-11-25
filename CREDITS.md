@@ -676,10 +676,11 @@ is licensed under [CC-BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/
   * battleFinal
 * Songs used within the "Legend of Bofie" campaign:
   * The following songs are licensed by [Shane Ivers](https://www.silvermansound.com) under CC BY 4.0:
-  * [All the Tea in China](https://www.silvermansound.com/free-music/all-the-tea-in-china)
-  * [Imperial China Cinematic](https://www.silvermansound.com/free-music/imperial-china-cinematic)
-  * [Zen Garden](https://www.silvermansound.com/free-music/zen-garden)
-  * [Quiescent In Time](https://www.silvermansound.com/free-music/quiescent-in-time)
+	  * [All the Tea in China](https://www.silvermansound.com/free-music/all-the-tea-in-china)
+	  * [Imperial China Cinematic](https://www.silvermansound.com/free-music/imperial-china-cinematic)
+	  * [Zen Garden](https://www.silvermansound.com/free-music/zen-garden)
+	  * [Quiescent In Time](https://www.silvermansound.com/free-music/quiescent-in-time)
+  * [Lotus Lane](https://soundcloud.com/preconceived-notions/the-loyalist-lotus-lane) by The Loyalist under the artist collective [Preconceived Notions](https://soundcloud.com/preconceived-notions) licensed under CC BY 3.0. The Loyalist does not have an individually identifiable profile online and usually is linked to as the pretend link "https://soundcloud.com/why_you_look_at_my_link_listen_to_my_music". 
 
 Sounds
 --------
